@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VIVEK PF
+- 👋 Hi, I’m VIVEK
 - 👀 I’m interested in Data Analytics and Data Visualisation
 - 🌱 I’m currently learning Excel | SQL | Altreyx | PowerBI |Tableau | Python
 - 📫 LinkedIn - https://www.linkedin.com/in/vivekpf/
